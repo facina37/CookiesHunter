@@ -1,2 +1,2 @@
 # CookiesHunter
-Opensource code for CookiesHunter game.
+Opensource code for the CookiesHunter game.
