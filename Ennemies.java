@@ -1,5 +1,7 @@
 /**
- * Décrivez votre classe Ennemies ici.
+ * Subclass Ennemies from the superclass Character. This class represents the different members of the family : 
+ * the mother, the father, the sister, the grand-mother and the grand-father. 
+ * 
  *
  * @author Amandine Poullot @ Gabriel Brunet
  * @version v0.1 2018-nov
