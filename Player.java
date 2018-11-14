@@ -10,12 +10,10 @@
 public class Player extends Character
 {  
     /**
-     * Constructeur d'objets de classe Player
+     * Player class constructors.
+     * 
      */
-    public Player()
+    public Player(String name)
     {
-        life = new super.lifePoint;
-        this.location = new Room;
-        this.inventory = new super.inventory;
-        this.name = super.name
     }
+}
